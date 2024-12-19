@@ -1,0 +1,10 @@
+h2 {
+    color: brown;
+    font-size: 25px;
+}
+
+p {
+    color: rgb(219, 121, 9);
+    font-weight: bold;
+    font-size: 2em;
+}
